@@ -13,6 +13,7 @@
 2. [xiaoguanのpiano，通过播放录音实现的一个非专业钢琴（因为只录了C大调）](https://github.com/xiaoguan0/-xiaoguan-piano)
 3. [小关早教](https://github.com/xiaoguan0/Early-education)
 4. [一个比较火的ddos攻击Python脚本，更新下可实现持续攻击一个端口，还是有bug懒得补了](https://github.com/xiaoguan0/ddos)
+5. [你未来男朋友多高，写一半...有bug](https://github.com/xiaoguan0/How-tall-is-your-future-boyfriend)
 
 当然，你说项目没开发多少，网页确实部署了一大堆，比如：
 1. [小关の博客](https://xiaoguan.fit)
