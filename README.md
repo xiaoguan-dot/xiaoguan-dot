@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=xiaoguan0&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=xiaoguan-dot&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
 鄙人的爱站，随缘更新：[https://xiaoguan.fit](https://xiaoguan.fit)
 
