@@ -1,4 +1,4 @@
-<img src="https://github-stats.xiaoguan.fit/api?username=xiaoguan-dot&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
+<img src="https://github-stats.xiaoguan.fit/api?username=xiaoguan-dot&count_private=true&show_icons=true&hide_border=true&icon_color=586069" align="right">
 
 Hi，我是小关。👋
 
